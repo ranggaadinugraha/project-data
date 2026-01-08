@@ -75,9 +75,3 @@ The model is evaluated using:
 - Classification Report  
 - Stratified K-Fold Cross Validation (10 folds)
 
-Add your result images here:
-```text
-assets/
-├── confusion_matrix.png
-├── classification_report.png
-└── cross_validation_plot.png
